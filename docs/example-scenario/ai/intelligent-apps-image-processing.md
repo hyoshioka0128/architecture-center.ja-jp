@@ -53,7 +53,7 @@ Computer Vision API、Azure Functions などの Azure サービスを使用す�
 ## <a name="alternatives"></a>代替手段
 
 - [Custom Vision Service](/azure/cognitive-services/custom-vision-service/home)。 Computer Vision API は、一連の[分類ベースのカテゴリ][cv-categories]を返します。 Computer Vision API によって返されていない情報を処理する必要がある場合は、Custom Vision Service を検討してください。これにより、カスタム イメージ分類子を構築できます。
-- [Azure Search](/azure/search/search-what-is-azure-search)。 特定の条件を満たすイメージを検索するために、ご自身のユース ケースでメタデータにクエリを実行する必要がある場合は、Azure Search を検討してください。 現在、プレビュー中の[コグニティブ検索](/azure/search/cognitive-search-concept-intro)では、このワークフローがシームレスに統合されます。
+- [Azure Search](/azure/search/search-what-is-azure-search)。 特定の条件を満たすイメージを検索するために、ご自身のユース ケースでメタデータにクエリを実行する必要がある場合は、Azure Search を検討してください。 現在、プレビュー中の [Cognitive Search](/azure/search/cognitive-search-concept-intro) では、このワークフローがシームレスに統合されます。
 
 ## <a name="considerations"></a>考慮事項
 
