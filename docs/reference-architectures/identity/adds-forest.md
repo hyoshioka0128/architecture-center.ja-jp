@@ -93,7 +93,7 @@ Active Directory 固有のセキュリティの考慮事項については、[Ac
 
 ### <a name="prerequisites"></a>前提条件
 
-1. [GitHub リポジトリ](https://github.com/mspnp/identity-reference-architectures) の zip ファイルを複製、フォーク、またはダウンロードします。
+1. [GitHub リポジトリ](https://github.com/mspnp/identity-reference-architectures) の zip ファイルをクローン、フォーク、またはダウンロードします。
 
 2. [Azure CLI 2.0](/cli/azure/install-azure-cli?view=azure-cli-latest) をインストールします。
 
