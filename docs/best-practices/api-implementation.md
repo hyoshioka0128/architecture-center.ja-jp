@@ -806,7 +806,7 @@ API Management サービスを使用して Web API を公開した場合、Micro
 - OData を使用して Web API でバッチ操作を実装する方法については、[Web API と Web API OData でのバッチ処理のサポートの概要](https://blogs.msdn.microsoft.com/webdev/2013/11/01/introducing-batch-support-in-web-api-and-web-api-odata/)に関するページをご覧ください。
 - べき等の概要とデータ管理操作との関連性については、Jonathan Oliver のブログ記事「[Idempotency Patterns (べき等のパターン)](https://blog.jonathanoliver.com/idempotency-patterns/)」をご覧ください。
 - HTTP 状態コードの全一覧と説明については、W3C の Web サイトの「[Status Code Definitions (状態コードの定義)](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)」をご覧ください。
-- Web ジョブを使用してバックグラウンド操作を実行する方法と例については、Microsoft Web サイト「[Web ジョブでバックグラウンド タスクを実行する](/azure/app-service-web/web-sites-create-web-jobs/)」をご覧ください。
+- WebJobs を使用してバックグラウンド操作を実行する方法と例については、Microsoft Web サイト「[WebJobs でバックグラウンド タスクを実行する](/azure/app-service-web/web-sites-create-web-jobs/)」をご覧ください。
 - Azure Notification Hubs を使用して非同期応答をクライアント アプリケーションにプッシュする方法については、「[Azure Notification Hubs によるユーザーへの通知](/azure/notification-hubs/notification-hubs-aspnet-backend-windows-dotnet-wns-notification/)」をご覧ください。
 - Web API への制御された安全なアクセスを提供する成果物を発行する方法については、「[API Management](https://azure.microsoft.com/services/api-management/)」をご覧ください。
 - API Management REST API を使用して、カスタム管理アプリケーションを構築する方法については、「[Azure API Management REST API リファレンス](https://msdn.microsoft.com/library/azure/dn776326.aspx)」をご覧ください。
