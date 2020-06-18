@@ -223,7 +223,7 @@ Application_End ログは、アプリ ドメインのシャットダウン (ソ�
 Azure Service Bus メッセージング キューの使用を検討します。このキューは、この目的に対して[配信不能キュー][sb-dead-letter-queue]の機能を提供します。
 
 > [!NOTE]
-> WebJobs でストレージ キューを使用している場合、WebJobs SDK は組み込みの有害メッセージ処理を提供します。 「[Web ジョブ SDK を使用して Azure Queue Storage を操作する方法][sb-poison-message]」を参照してください。
+> WebJobs でストレージ キューを使用している場合、WebJobs SDK は組み込みの有害メッセージ処理を提供します。 「[WebJobs SDK を使用して Azure Queue Storage を操作する方法][sb-poison-message]」を参照してください。
 
 **診断** アプリケーション ログを使用します。
 
