@@ -133,7 +133,7 @@ Azure との間でデータを転送するオプションはいくつかあり�
 
 ### <a name="graphical-interface-and-azure-data-factory"></a>グラフィカル インターフェイスと Azure Data Factory
 
-| | Azure ストレージ エクスプローラー | Azure Portal * | Azure Data Factory |
+| | Azure Storage Explorer | Azure Portal * | Azure Data Factory |
 | --- | --- | --- | --- |
 | ビッグ データに合わせて最適化 | いいえ  | いいえ  | はい |
 | リレーショナル データベースへのコピー | いいえ  | いいえ  | はい |
